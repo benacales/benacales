@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benacales
-- 👀 I’m interested in programming I find interesting and playing games.
+- 👀 I’m interested in programming anything I find interesting and playing games.
 - 🌱 I’m currently learning Computer Science at Tennessee Tech University
 - 📫 How to reach me benmaustin2000@gmail.com
 
